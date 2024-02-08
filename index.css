@@ -1,0 +1,37 @@
+body {
+    margin: 5px;
+    background: blue;
+}
+
+h3 {
+    color: white;
+    font-family: Verdana;
+   
+    
+}
+
+.container {
+    display: flex;
+    background: #1B244A;
+    justify-content: space-around;
+}
+
+.homepoints {
+    background: white;
+   font-family: Cursed Timer ULiL;
+    color: #F94F6D;
+    text-align: right;
+    padding: 20px;
+    margin: 40px 10px 40px 00px;
+  
+}
+
+.button-new-game {
+    display: flex;
+    justify-self: center; 
+   text-align: center;
+   
+}
+
+
+}
